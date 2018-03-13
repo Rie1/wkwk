@@ -252,8 +252,8 @@ helpMessage ="""
 KAC=[vipro]
 mid = vipro.getProfile().mid
 Bots=[mid]
-Creator=["uda936836a9869eb86ec8ab992a4e8979"]
-admin=["uda936836a9869eb86ec8ab992a4e8979"]
+Creator=[u082612f1351f554fffb1a120f32a9b0e"]
+admin=["u082612f1351f554fffb1a120f32a9b0e"]
 
 contact = vipro.getProfile()
 backup1 = vipro.getProfile()
